@@ -1,3 +1,10 @@
 * {
-  background-color:goldenrod;
+  background: #C59237;
+background: -moz-linear-gradient(-45deg, #C59237 0%, #A4A4A4 50%, #C59237 100%);
+background: -webkit-linear-gradient(-45deg, #C59237 0%, #A4A4A4 50%, #C59237 100%);
+background: linear-gradient(135deg, #C59237 0%, #A4A4A4 50%, #C59237 100%);
+}
+
+.title {
+  text-align: center;
 }
